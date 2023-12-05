@@ -2,11 +2,18 @@
 
 # ALP 
 ## RELEASE NOTE 
-### ALP 0.2.1 :
+### ALP 0.3.0
+- Passage d'ALP en GUI.
+-   Installation automatique de Kivy (PC).
+-   Version android disponible.
+-   Développement d'un launcher permettant de lancer MetaTrader 5 et Brave sur le graphique TradingView EURUSD (Si ces derniers sont installés sur la machine).
+**Patch:**
+-   L'affichage du temps restant ne s'affichait pas correctement.
+### ALP 0.2.1 
 **Patch :**
 - Impossibilité d'utiliser la touche Backspace sur Linux(Ubuntu)
 - Modification du ReadMe pour la version 0.2.0 et 0.2.1
-### **ALP 0.2.0 :**
+### ALP 0.2.0 
 - Lancement du programme via un LiveTerminal (ALPGUI 0.1.0).
 - Ajout des options.
 - Sauvegarde des options dans le dossier Data/Options.bin.
