@@ -1,6 +1,11 @@
 
+
 # ALP 
 ## RELEASE NOTE 
+### ALP 0.2.1 :
+**Patch :**
+- Impossibilité d'utiliser la touche Backspace sur Linux(Ubuntu)
+- Modification du ReadMe pour la version 0.2.0 et 0.2.1
 ### **ALP 0.2.0 :**
 - Lancement du programme via un LiveTerminal (ALPGUI 0.1.0).
 - Ajout des options.
