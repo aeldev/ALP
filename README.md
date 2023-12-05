@@ -2,6 +2,16 @@
 
 # ALP 
 ## RELEASE NOTE 
+### ALP 0.4.0
+- Ajout du jeu ExeonDriveAlpha 0.1.0
+- Possibilité de générer des sons avec ALPSoundForge 0.1.0
+- Une To Do List est ajoutée.
+**PuffCounter 0.4.0:**
+- Le Puff Counter affiche maintenant une barre de chargement.
+- Suppression du CMD lors du lancement du programme.
+- Le ReadMe est maintenant scrollable.
+**Patch :**
+- Patch du bug qui créé un fichier DataOptions.bin dans le dossier principal.
 ### ALP 0.3.0
 - Passage d'ALP en GUI.
 -   Installation automatique de Kivy (PC).
